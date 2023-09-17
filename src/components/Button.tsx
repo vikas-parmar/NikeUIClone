@@ -4,7 +4,7 @@ interface MyButtonProps {
   backgroundColor:string;
   textColor:string;
   borderColor:string;
-  fullWidth: string;
+  fullWidth: boolean;
 }
 
 const Button = ({
