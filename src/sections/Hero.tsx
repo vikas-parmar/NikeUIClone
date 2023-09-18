@@ -34,7 +34,7 @@ const Hero = () => {
           backgroundColor=""
           textColor=""
           borderColor=""
-          fullWidth=""
+          fullWidth={false}
         />
 
         <div className="flex justify-start items-start flex-wrap w-full mt-20 gap-16">

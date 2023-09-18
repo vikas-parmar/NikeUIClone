@@ -22,7 +22,14 @@ const SuperQuality = () => {
           Our dedication to detail and excellence ensures your satisfaction
         </p>
         <div className="mt-11">
-          <Button label="View details" iconUrl={""} />
+          <Button
+            label="View details"
+            iconUrl={""}
+            backgroundColor=""
+            textColor=""
+            borderColor=""
+            fullWidth={false}
+          />
         </div>
       </div>
 

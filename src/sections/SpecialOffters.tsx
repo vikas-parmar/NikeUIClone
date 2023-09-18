@@ -36,7 +36,7 @@ const SpecialOffters = () => {
             backgroundColor=""
             borderColor=""
             textColor=""
-            fullWidth=""
+            fullWidth={false}
           />
           <Button
             iconUrl={""}
@@ -44,7 +44,7 @@ const SpecialOffters = () => {
             backgroundColor="bg-white"
             borderColor="border-slate-gray"
             textColor="text-slate-gray"
-            fullWidth=""
+            fullWidth={false}
           />
         </div>
       </div>
